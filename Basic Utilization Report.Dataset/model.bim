@@ -20835,6 +20835,11 @@
             "expression": "CALCULATE([Total Primary Members],Utilization[Is Account Setup] = \"Yes\") + 0",
             "formatString": "0",
             "lineageTag": "6d3966da-9ad6-4c0e-9530-4b2c0bc69f92"
+          },
+          {
+            "name": "Test_Measure",
+            "expression": "\"This is just for testing purpose\"",
+            "lineageTag": "027f1143-4c77-4d82-9f23-60951e1c3b80"
           }
         ],
         "partitions": [
