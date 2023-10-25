@@ -755,6 +755,15 @@
       "ordinal": 4,
       "visualContainers": [
         {
+          "config": "{\"name\":\"94fc9b6f393c6dd6c2b0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":674.7707979626485,\"y\":100.2376910016978,\"z\":1,\"width\":605.0933786078099,\"height\":156.4685908319185,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure.% Family Setup Password 1\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% Family Setup Password 1\"},\"Name\":\"Measure.% Family Setup Password 1\",\"NativeReferenceName\":\"% Family Setup Password 1\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% Family Setup Password 1\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 156.47,
+          "width": 605.09,
+          "x": 674.77,
+          "y": 100.24,
+          "z": 1.00
+        },
+        {
           "config": "{\"name\":\"fbd62f91a07a7c04cf34\",\"layouts\":[{\"id\":0,\"position\":{\"x\":9.779286926994907,\"y\":0,\"z\":0,\"width\":605.0933786078099,\"height\":553.7521222410866,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure.Count of select Companies 1\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Count of select Companies 1\"},\"Name\":\"Measure.Count of select Companies 1\",\"NativeReferenceName\":\"Count of select Companies 1\"}]},\"drillFilterOtherVisuals\":true}}",
           "filters": "[]",
           "height": 553.75,
